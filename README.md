@@ -26,3 +26,13 @@ Chương trình O0024.cnc
 Work piece = phi 140, length 200
 Tool = mũi khoan thô cán 160, chip CNMG có radius = 0.2
 Bù bằng G41 cho đường kính đúng tiêu chuẩn đề bài, còn distance thì không giống
+
+-----------------------------------------------------------------
+G41 = tiện thô dọc trục
+G43 = bù chiều dài dao với offset = -165, gauge cao 100
+-----------------------------------------------------------------
+Phay CNC
+Chương trình O3025.cnc
+Work piece = 80x80 dày 50 nhưng ăn sâu 0.3
+Tool = phay ngón Flat phi 20 dài 120
+Bù trái G41 đi từ ngoài X-60 Y-60 vào tiếp tuyến, di chuyển ngược chiều kim đồng hồ
