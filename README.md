@@ -36,3 +36,13 @@ Chương trình O3025.cnc
 Work piece = 80x80 dày 50 nhưng ăn sâu 0.3
 Tool = phay ngón Flat phi 20 dài 120
 Bù trái G41 đi từ ngoài X-60 Y-60 vào tiếp tuyến, di chuyển ngược chiều kim đồng hồ
+
+-----------------------------------------------------------------
+Bài tập tiện tổng hợp 34
+-----------------------------------------------------------------
+Tiện CNC
+Chương trình O1034.cnc
+Work piece = phi 65 dài 150
+T0101 = dao tiện ngoài, bù G42, vị trí 3
+T0202 = dao tiện rãnh B3
+T0303 = dao tiện ren
