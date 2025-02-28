@@ -28,7 +28,7 @@ Tool = mũi khoan thô cán 160, chip CNMG có radius = 0.2
 Bù bằng G41 cho đường kính đúng tiêu chuẩn đề bài, còn distance thì không giống
 
 -----------------------------------------------------------------
-G41 = tiện thô dọc trục
+G41 = bù trái hướng tiến dao
 G43 = bù chiều dài dao với offset = -165, gauge cao 100
 -----------------------------------------------------------------
 Phay CNC
