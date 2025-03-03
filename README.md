@@ -45,4 +45,12 @@ Chương trình O1034.cnc
 Work piece = phi 65 dài 150
 T0101 = dao tiện ngoài, bù G42, vị trí 3
 T0202 = dao tiện rãnh B3
+-----------------------------------------------------------------
+Bài tập tiện tổng hợp 35
+-----------------------------------------------------------------
+Tiện CNC
+Chương trình O2222.cnc
+Work piece = phi 80 dài 200
+T0101 = dao tiện ngoài, không bù, vị trí 2
+T0202 = dao tròn button, đường kính 10, vị trí 6
 T0303 = dao tiện ren
