@@ -55,3 +55,12 @@ Work piece = phi 80 dài 200
 T0101 = dao tiện ngoài, không bù, vị trí 2
 T0202 = dao tròn button, đường kính 10, vị trí 6
 T0303 = dao tiện ren
+
+-----------------------------------------------------------------
+Bài tập phay lỗ
+-----------------------------------------------------------------
+Phay CNC
+Chương trình O3001.cnc là chương trình chính, O3002 thay đổi Z và O3003 là biên dạng lỗ
+Work piece = 100x100 dày 50
+T1 = phay ngón phi 10, dài 100
+Lộ = phi 30, bù dao phi 10
