@@ -64,3 +64,12 @@ Chương trình O3001.cnc là chương trình chính, O3002 thay đổi Z và O3
 Work piece = 100x100 dày 50
 T1 = phay ngón phi 10, dài 100
 Lộ = phi 30, bù dao phi 10
+
+-----------------------------------------------------------------
+Bài tập tiện lỗ trong
+-----------------------------------------------------------------
+Tiện CNC
+Chương trình O4001.cnc là chương trình chính và O4002 là biên dạng lỗ
+Work piece = phi ngoài 100, phi trong 40, dài 200
+T1 = dao tiện trong, tiện một khoảng dài 20.2 (do bù mũi dao radius 0.2) phi khoét 80
+Sử dụng tọa độ tương đối để tiện 2 me của dao tiến vào W-20.2, lùi ra W20.2
