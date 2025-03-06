@@ -72,4 +72,11 @@ Tiện CNC
 Chương trình O4001.cnc là chương trình chính và O4002 là biên dạng lỗ
 Work piece = phi ngoài 100, phi trong 40, dài 200
 T1 = dao tiện trong, tiện một khoảng dài 20.2 (do bù mũi dao radius 0.2) phi khoét 80
-Sử dụng tọa độ tương đối để tiện 2 me của dao tiến vào W-20.2, lùi ra W20.2
+
+-----------------------------------------------------------------
+Bài tập phay vạt mặt và khoan lỗ
+-----------------------------------------------------------------
+Phay CNC
+Chương trình O4101.cnc là chương trình chính và O4102 là vạt mặt
+Work piece = 100x70 dày 25, kẹp clamp lộ lên 15
+Vạt mặt phải 30 và khoan 2 lỗ phi 6
