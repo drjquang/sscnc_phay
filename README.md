@@ -80,3 +80,14 @@ Phay CNC
 Chương trình O4101.cnc là chương trình chính và O4102 là vạt mặt
 Work piece = 100x70 dày 25, kẹp clamp lộ lên 15
 Vạt mặt phải 30 và khoan 2 lỗ phi 6
+
+-----------------------------------------------------------------
+Bài tập tiện bóc lớp, tiện rãnh, tiện ren và cắt đứt
+-----------------------------------------------------------------
+Tiện CNC
+Chương trình O4201.cnc là chương trình chính
+Work piece = phi 90 dài 120
+T01 = Tiện bóc lớp, chip 75 độ
+T02 = Tiện rãnh B5
+T03 = Tiện ren M30x2
+T04 = Tiện cắt đứt, dài 45mm
