@@ -91,3 +91,14 @@ T01 = Tiện bóc lớp, chip 75 độ
 T02 = Tiện rãnh B5
 T03 = Tiện ren M30x2
 T04 = Tiện cắt đứt, dài 45mm
+
+-----------------------------------------------------------------
+Bài tập tiện bóc lớp, tiện rãnh, tiện ren và cắt đứt
+-----------------------------------------------------------------
+Tiện CNC
+Chương trình O4501.cnc là chương trình chính
+Work piece = phi 74 dài 150
+T01 = Tiện bóc lớp, chip 75 độ
+T02 = Tiện rãnh B5
+T03 = Khoan lỗ phi 10, dài 60
+T04 = Tiện ren M40x2
